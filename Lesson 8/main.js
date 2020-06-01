@@ -15,16 +15,28 @@ let a = prompt("Тест");
 // }
 
 if (a > 0 && a < 1000 && a % 2 == 0 && a % 3 == 0) {
-  console.log("hi");
+  //console.log("hi");
 }
 
 function hi(a) {
   if (a > 0 && a < 1000 && a % 2 == 0 && a % 3 == 0) {
-    console.log("hi");
+    //console.log("hi");
     return true;
   }
 }
 hi(a);
 console.log(hi());
 
-let obj = {};
+let obj = {
+  check() {
+    if (a > 0 && a < 1000 && a % 2 == 0 && a % 3 == 0) console.log("true");
+  },
+};
+
+// круд на тегах
+// круд на стилях
+// круд на ивентах
+// персоналдьные данные Json
+
+let h1 = document.querySelector("h1");
+console.log(h1.innerText);
