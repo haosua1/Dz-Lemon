@@ -1,3 +1,5 @@
+/*
+
 // 100;
 // //CRUD;
 
@@ -52,3 +54,5 @@ ajaxRequest.addEventListener("readystatechange", function () {
 });
 
 ajaxRequest.send();
+
+*/

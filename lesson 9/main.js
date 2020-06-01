@@ -1,3 +1,4 @@
+/* 
 let h1 = document.querySelector("h1");
 // h1.onclick = function name(params) {
 //   alert("hello");
@@ -32,3 +33,4 @@ ul.addEventListener("click", function (event) {
   let li = event.target;
   alert(li.innerText);
 });
+*/

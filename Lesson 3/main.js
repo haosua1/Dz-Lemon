@@ -49,6 +49,6 @@
 //   console.log(compositionEven);
 // }
 
-let n2;
-n2--;
-console.log(n2);
+// let n2;
+// n2--;
+// console.log(n2);

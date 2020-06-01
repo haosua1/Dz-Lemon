@@ -1,3 +1,4 @@
+/*
 // 100;
 
 // //CRUD;
@@ -90,3 +91,5 @@ fetch("https://jsonplaceholder.typicode.com/todos/1")
 //     let response = await fetch("https://jsonplaceholder.typicode.com/todos");
 //     let user = await response.json();
 // }
+
+*/

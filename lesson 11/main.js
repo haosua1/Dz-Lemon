@@ -1,3 +1,4 @@
+/*
 let a = 100;
 console.log(a);
 
@@ -66,3 +67,5 @@ let ziteli = new monkey(age);
 let ziteli = new dog(age);
 let ziteli = new cat(age);
 let ziteli = new people(age);
+
+*/

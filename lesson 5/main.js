@@ -1,3 +1,4 @@
+/*
 // let user = {
 //   name: "Aleksandr",
 //   surName: "Karnaulskyi",
@@ -113,3 +114,4 @@ if (num == 2) {
 if (num == 3) {
   console.log(data.den);
 }
+*/

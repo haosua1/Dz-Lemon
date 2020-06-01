@@ -1,3 +1,4 @@
+/*
 // let $ = function (selector) {
 //   return document.querySelectorAll(selector);
 // };
@@ -63,3 +64,5 @@ function getFullName(name, surname) {
 }
 
 getFullName("Sasha", "Karnaulskyi");
+
+*/

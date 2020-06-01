@@ -1,3 +1,4 @@
+/*
 // https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Array
 
 let a = 100;
@@ -206,3 +207,5 @@ let things = ["слово", "Слово", "1 Слово", "2 Слова"];
 things.sort(); // ['1 Слово', '2 Слова', 'Слово', 'слово']
 // В Unicode, числа находятся перед буквами в верхнем регистре,
 // а те, в свою очередь, перед буквами в нижнем регистре.
+
+*/
